@@ -41,14 +41,14 @@ Many Games is an offline games app where users can play fun, challenging and eng
 
 ## 🖼️ Game previews
 
-![manygamesGames-min](https://github.com/legend0619/ManyGames/assets/85615075/4937c432-a808-4a31-b3b3-4e59d70abdf8)
+![manygamesGames-min](https://github.com/dragonknight0522/ManyGames/assets/85615075/4937c432-a808-4a31-b3b3-4e59d70abdf8)
 
 ## 🛠️ Development setup
 
 Steps to locally setup development after cloning the project.
 
 ```sh
-git clone https://github.com/legend0619/ManyGames.git
+git clone https://github.com/dragonknight0522/ManyGames.git
 ```
 
 ### Step 1 - Dependencies
