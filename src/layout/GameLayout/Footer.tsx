@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="flex flex-col items-center justify-between gap-5 border-t border-zinc-900/5 pt-8 dark:border-white/5 sm:flex-row">
         <div className="flex gap-4">
           <a
-            href="https://github.com/BUMBAIYA/ManyGames"
+            href="https://github.com/dragonknight0522/ManyGames"
             target="_blank"
             aria-label="Source Code"
             className="flex items-center gap-1 dark:text-zinc-400"
@@ -21,9 +21,9 @@ export default function Footer() {
             className="-underline-offset-2 text-base font-semibold text-emerald-600 underline dark:text-emerald-400"
             target="_blank"
             aria-label="link to creator's website"
-            href="https://amitchauhan.vercel.app"
+            href="https://wood-k.vercel.app"
           >
-            Amit Chauhan
+            Kevin Wood
           </a>
         </p>
       </div>
